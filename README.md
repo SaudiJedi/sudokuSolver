@@ -128,4 +128,4 @@ mac algorithm has the least execution time taken to solve the sudoku.
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
 
-**Shoutout to my colleague Yousef Hamad Al-Khuraiji for contributing in this project**
+**Shoutout to my colleague Yousef Hamad Al-Khuraiji and Dr. Hachmi Nasser for contributing in this project**
